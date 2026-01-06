@@ -3,10 +3,6 @@
 This repository contains an Exploratory Data Analysis (EDA) project
 focused on Electric Vehicle (EV) datasets using Python and Jupyter Notebook.
 
-> ⚠️ The `ev_env/` folder should **NOT** be pushed to GitHub.  
-Add it to `.gitignore`.
-
----
 
 ## 🧠 Key Objectives
 
